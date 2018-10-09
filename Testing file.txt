@@ -1,3 +1,0 @@
-I'm Berlin
-
-This is my first time to try to use git.
